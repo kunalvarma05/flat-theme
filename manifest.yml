@@ -1,0 +1,6 @@
+name: flat
+parent: default
+static:
+    'css/flat.css': 'css/flat.css'
+global:
+    'layout/base.twig': 'layout/base.twig'
